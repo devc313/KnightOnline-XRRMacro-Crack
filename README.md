@@ -1,7 +1,7 @@
 # KnightOnline-XRRMacro-Crack
 KnightOnline XRRMacro Cracked by ecvd
 
-Auto Text Generator PNG TO Text
+-Generated Auto Text Generator PNG TO Text
 
 Asas
 Warrior
