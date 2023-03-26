@@ -1,0 +1,16 @@
+C:\Users\OZDEN\Desktop\xrrmacro_source\XRRMacro\bin\Debug\XRRMacro.pdb
+C:\Users\OZDEN\Desktop\xrrmacro_source\XRRMacro\bin\Debug\FireSharp.dll
+C:\Users\OZDEN\Desktop\xrrmacro_source\XRRMacro\bin\Debug\WindowsInput.dll
+C:\Users\OZDEN\Desktop\xrrmacro_source\XRRMacro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OZDEN\Desktop\xrrmacro_source\XRRMacro\obj\Debug\XRRMacro.csproj.AssemblyReference.cache
+C:\Users\OZDEN\Desktop\xrrmacro_source\XRRMacro\obj\Debug\XRRMacro.Asas.resources
+C:\Users\OZDEN\Desktop\xrrmacro_source\XRRMacro\obj\Debug\XRRMacro.Attack.resources
+C:\Users\OZDEN\Desktop\xrrmacro_source\XRRMacro\obj\Debug\XRRMacro.Form1.resources
+C:\Users\OZDEN\Desktop\xrrmacro_source\XRRMacro\obj\Debug\XRRMacro.LoginForm.resources
+C:\Users\OZDEN\Desktop\xrrmacro_source\XRRMacro\obj\Debug\XRRMacro.csproj.GenerateResource.cache
+C:\Users\OZDEN\Desktop\xrrmacro_source\XRRMacro\obj\Debug\XRRMacro.csproj.CoreCompileInputs.cache
+C:\Users\OZDEN\Desktop\xrrmacro_source\XRRMacro\obj\Debug\XRRMacro.csproj.CopyComplete
+C:\Users\OZDEN\Desktop\xrrmacro_source\XRRMacro\obj\Debug\XRRMacro.pdb
+C:\Users\OZDEN\Desktop\xrrmacro_source\XRRMacro\bin\Debug\XRRMacro.exe
+C:\Users\OZDEN\Desktop\xrrmacro_source\XRRMacro\obj\Debug\XRRMacro.csproj.SuggestedBindingRedirects.cache
+C:\Users\OZDEN\Desktop\xrrmacro_source\XRRMacro\obj\Debug\XRRMacro.exe
